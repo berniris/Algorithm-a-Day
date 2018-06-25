@@ -9,7 +9,7 @@ isPrime
 primeFactor 
 
 ## APR-MAY
-Hiatus for Gneral Assembly bootcap 
+Hiatus for Gneral Assembly bootcamp 
 
 ## JUNE - 
 IqTest
