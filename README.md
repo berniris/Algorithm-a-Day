@@ -5,6 +5,7 @@ Will also feature refactored code as I learn more about Big O and algorithm effi
 
 ## MARCH - 
 isPrime
+
 primeFactor 
 
 ## APR-MAY
@@ -12,6 +13,9 @@ Hiatus for Gneral Assembly bootcap
 
 ## JUNE - 
 IqTest
+
 Format a string of names like 'Bart, Lisa & Maggie'.
+
 WeIrD StRiNg CaSe
+
 Replace With Alphabet Position
