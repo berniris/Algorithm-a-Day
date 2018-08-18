@@ -22,3 +22,6 @@ Replace With Alphabet Position
 
 ## JULY - 
 Jewels and Stones 
+
+## AUGUST - 
+Hamming Distance 
