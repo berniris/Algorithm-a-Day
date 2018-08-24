@@ -34,3 +34,7 @@ Self Dividing Number
 
 Uncommon Words
 
+Number Complement 
+
+Reverse A string
+
